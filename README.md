@@ -7,7 +7,7 @@
   - User Login: Registered users can log in using their email and password.
   - Session Management: The application uses PHP sessions to maintain user login state.
   - Image Upload: Users can upload a profile picture during registration.
-  - 
+    
 #Database Setup:
  -Create a database named db_chat.
  -Create a user table with the following columns: id, name, email, password, image.
